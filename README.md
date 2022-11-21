@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **OpenPolitics**
 
-- 🌱 I’m currently learning about **NLP algorithms, PyTorch, PostgreSQL**
+- 🌱 I’m currently learning about **PostgreSQL, Apache Spark, Apache Airflow**
 
 - 👯 I’m looking to collaborate on **OpenPolitics**
 
