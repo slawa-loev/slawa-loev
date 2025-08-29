@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Slawa</h1>
-<h3 align="center">Data Scientist with an academic-grade knowledge of the human mind</h3>
+<h3 align="center">Data / ML Engineer with an academic-grade knowledge of the human mind</h3>
 
-- 🔭 I’m currently working on **OpenPolitics**
-
-- 🌱 I’m currently learning about **PostgreSQL, Apache Spark, Apache Airflow**
-
-- 👯 I’m looking to collaborate on **OpenPolitics**
-
-- 💬 Ask me about **Python, Pandas, Scikit-Learn**
+- 💬 Ask me about **Python, Pandas, Sklearn, Dagster**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
